@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WorkGroup</string>
+    <string name="title">Titre</string>
+    <string name="type_message">Ecrire un commentaire ...</string>
+    <string name="send">Envoyer</string>
+    <string name="sign_in">Se connecter</string>
+    <string name="action_invite">Inviter des amis</string>
+    <string name="action_logout">Se déconnecter</string>
+    <string name="action_save">Enrégistrer</string>
+    <string name="authentication">Authentification</string>
+    <string name="new_topic">Nouveau sujet</string>
+    <string name="details">Détails</string>
+    <string name="invitation_message">Hey, viens nous rejoindre dans WorkGroup. c\'est sweet ;)</string>
+    <string name="invitation_cta">Je me joins.</string>
+    <string name="invitation_title">Invitation WorkGroup</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>
