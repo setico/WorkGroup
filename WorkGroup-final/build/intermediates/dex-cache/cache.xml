@@ -1,2 +1,320 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_042fbab457be4e070e4f63e424c684d31024aefd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_178b3e89322849aea2e1855f2306c1c8e7333a18/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.8.0_ac9669e3de9a0faa1d5a244071c595a59f6710f7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.8.0_49d103e32d149c846165c32ca1765345a4ddb243/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.8.0_08c6a71e4436958da24e5968dbe47c704d3a0a5b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="fba753a24384a6be12d6fc933010d48999c3d619">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c89a57552420740091b0c16f37e7ba76193cac1a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_e79302a7f80e163cd4a6c4e4c872beaf6bd788b0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.8.0_33dd553ec7a9c90164cac202a94b83dee04d3f14/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6cf582650b430ab376aa32f305afcbeb9ce7ae8f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_790a5909211cb3a4aa86dc2f4253dedab9925d42/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_d46e0a94d816252e384c7838a72220fcff9018ed/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_9e3a80acadee023603962f9943a2dbc0710a2b3f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_219c5102dc81e1ce01ad7bcbc097aa4d1076bff5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.8.0_50ff954396d65ee922643a38dbe2d72b2366673d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d780775f1d5d9125e6a1e5281b4d54ff1282dc37/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_9e44c710cbbf0eb90b5a4b7a6a8b34da51a85409/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.8.0_5b49e6d3b16283b0217ce137fcd4d65293a1c424/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_1280f6f64e54293865d9ba28c7de713840620cce/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_eee78d064c17f7d9649244bce4790eebc5927426/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.8.0_8eb4b9044fbd8328f06618badead168c75bad9f8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.8.0_93c24ed2d7da0cbcd76323d621f7c2111b47dc67/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_11b5081d43532c281ee95134c275e2aafaf478d9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_5ee1a5cf472e04f667371c2b73f9cdedaa1c1e89/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d4271e310507d0899e4c4269a793dfc560797bc7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.8.0_2f8e695d1fd5af3d2b081233ec623f14fa22b0de/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.8.0_d2c2adabef913af40afc50db6b63d88341368bff/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.8.0_2c7469ac521c3e556063d7668058fbc7509bfda3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_11b52fc31a1fec74526ffdba367b0ed6cf2e2fcc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_8a582e7a89fbfb7f29b5271b871ba400bd29b26d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.8.0_e00573ae92ee9aa2cf06dc2f018a718474c74119/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="bc90b841e1d85b8a55edc52d5014229fd5a9c328">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_68ce55c8f53de02ab37810766cc823f699ad8d3d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_c6a40b64832f12f5e1e134d74aa8a943ce61bfd6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.8.0_fe754b4eeb456ce9d3df17cc8efd749fb4949915/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_25c2b0e4288ba33045236095ad0ea0021f80e0bb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.8.0_c12e62622379e35e7ff391c68ce1687068c25f83/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.8.0_b488914c4ccad7e295af189bca8e19b7ea32fcba/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-database/0.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="c76f6507a42aec274953e882bf3c49a570843ef5">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.firebaseui-firebase-ui-database-0.4.0_6c2bc25bc62142b2b2fcb5c134fccb4272790618/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.8.0_1b03d07af49b70714e98b4bb7788f5e46517dc10/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.8.0_069932cffffb2e5839707b926ad8b9ef6a49e322/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_3fb767f4fb0cd05a262ccc491b8a738f6d892e30/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.8.0_3d6fc1ecd14c44ec24669f1fdd4d7ed7527f06c4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_efc7006760f6ca8bef9cfbcc22409c3fa49cbdfb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_cdcca0489f232021f2993ecda0afc133dc4d7ed6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_c403023413a0d63ac78d19eca5f71f9f39f7fb68/classes.dex" />
+    </item>
+    <item
+        jar="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/Users/setico/Appli/WorkGroup/WorkGroup-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.8.0_c992e6a0c31e5846fa621fe75f646cb239a7513e/classes.dex" />
+    </item>
+
+</items>
