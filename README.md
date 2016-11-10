@@ -9,7 +9,7 @@ It's powered by Google Firebase plate-form.
 
 
 <h3>What we learned from this codeLab?</h3>
-- managing user authentifaction with FirebaseAuth and Google sign as provider
+- Managing user authentication with FirebaseAuth and Google sign as provider
 - Using and syncing data with the realtime database
 - Pushing cloud messages with Firebase Cloud Messaging
 - Integration of Firebase Remote Config
